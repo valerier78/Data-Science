@@ -1,0 +1,56 @@
+# === DOSSIERS SPÉCIFIQUES ===
+BLOC4_ML_Pipelines/jour3_DATACAMP/data/
+data/large_datasets/
+
+# === FICHIERS DE DONNÉES ===
+*.txt
+*.csv
+*.json
+*.parquet
+*.xml
+
+# === FICHIERS OFFICE ===
+*.xlsx
+*.xls
+*.docx
+*.doc
+*.pptx
+*.pdf
+
+# === IMAGES ===
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.tiff
+*.bmp
+*.html
+
+# === FICHIERS SYSTÈME ET LOGS ===
+*.bak
+*.tmp
+*.log
+logs/
+
+# === ENVIRONNEMENTS VIRTUELS ET CONFIGS LOCALES ===
+.env
+config/local_settings.py
+env_features/
+*.dll
+
+# === BUILD ===
+build/
+
+# === MODÈLES ET PICKLES ===
+*.pkl
+*.model
+*.h5
+*.joblib
+models/
+
+# === FICHIERS ZIPPES ===
+*.zip
+*.zi_
+*.tar.gz
+*.rar
+*.py_
