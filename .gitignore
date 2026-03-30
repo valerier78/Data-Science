@@ -1,13 +1,5 @@
 # === DOSSIERS SPÉCIFIQUES ===
-BLOC4_ML_Pipelines/jour3_DATACAMP/data/
 data/large_datasets/
-
-# === FICHIERS DE DONNÉES ===
-*.txt
-*.csv
-*.json
-*.parquet
-*.xml
 
 # === FICHIERS OFFICE ===
 *.xlsx
@@ -55,3 +47,4 @@ models/
 *.tar.gz
 *.rar
 *.py_
+
